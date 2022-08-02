@@ -14,7 +14,7 @@ class TempoLogaritmico {
 
         while (first <= last) {
 
-            current = ((first + last) / 2).toInt()
+            current = (first + last) / 2
 
             if (value > arr[current]) {
                 first = current+1
