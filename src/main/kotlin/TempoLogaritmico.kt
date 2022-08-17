@@ -2,6 +2,7 @@ class TempoLogaritmico {
     //O(log n)
     //Essa complexidade de tempo é bastante rápida
     //Os exemplos mais comuns são operações em árvores binárias ou a famosa busca binária em coleções ordenadas
+   //Geralmente algoritmos com esta complexidade cortam o tamanho do problema pela metade até chegar à solução
 
     fun sample() {
         binarySearch(arrayOf(1,2,3,4,5,6,7,8,9), 4)
