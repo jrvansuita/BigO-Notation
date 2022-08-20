@@ -100,3 +100,5 @@ fun binarySearch(arr: Array<Int>, value: Int): Boolean {
 - girlie_mac [@girlie_mac](https://twitter.com/girlie_mac/status/1229353683089068032/photo/1)
 
 
+#### Mental Map from [@girlie_mac](https://twitter.com/girlie_mac)
+<img src="map/mental_map.jpeg"/>
