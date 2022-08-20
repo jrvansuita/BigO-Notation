@@ -1,3 +1,3 @@
 
-rootProject.name = "UberStudies"
+rootProject.name = "BigO-Notation"
 
